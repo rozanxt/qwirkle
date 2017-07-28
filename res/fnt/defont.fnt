@@ -1,0 +1,33 @@
+file defont.png
+resolution 512 512
+tiles 16 16
+default 20 32
+offset 4 8
+
+char 0 0 12
+char 0 1 4
+char 0 2 16
+char 0 7 8
+char 0 8 16
+char 0 9 16
+char 0 10 16
+char 0 12 4
+char 0 14 4
+char 1 10 4
+char 1 11 4
+char 1 12 16
+char 1 14 16
+char 2 0 24
+char 2 9 12
+char 3 11 12
+char 3 13 12
+char 4 0 8
+char 4 6 16
+char 4 9 4
+char 4 11 16
+char 4 12 8
+char 5 4 12
+char 5 11 16
+char 5 12 4
+char 5 13 16
+char 5 14 24
