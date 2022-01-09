@@ -48,7 +48,7 @@ public class TextureManager {
 		int textureID = loadTexture(fnm);
 		if (textureID != 0) {
 			ArrayList<Integer> list = new ArrayList<Integer>();
-			list.add(new Integer(textureID));
+			list.add(textureID);
 			texturesMap.put(name, list);
 			return true;
 		} else return false;
